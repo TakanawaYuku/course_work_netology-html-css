@@ -31,7 +31,10 @@ a {
 }
 
 
-
+.container {
+    width: auto;
+    max-width: 100%;
+}
 
 .header {
     padding-bottom: 145px;
