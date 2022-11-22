@@ -726,20 +726,12 @@ a {
     transition: 0.4s;
 }
 
-.social-link-twitter {
-    background-image: url("../svg/004-twitter.svg");
+.social-link-dribbble {
+    background-image: url("../svg/001-dribbble.svg");
 }
 
 .social-link-pinterest {
     background-image: url("../svg/001-pinterest.svg");
-}
-
-.social-link-facebook {
-    background-image: url("../svg/002-facebook-logo.svg");
-}
-
-.social-link-instagram {
-    background-image: url("../svg/005-instagram.svg");
 }
 
 .social-link-tumblr {
